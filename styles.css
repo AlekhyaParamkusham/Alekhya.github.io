@@ -13,7 +13,7 @@ p
   font-family: 'Patrick Hand', cursive;
   font-size: 28px;
   font-stretch: normal;
-
+  margin-bottom: 0;
 }
 body
 {
@@ -27,6 +27,7 @@ hr
   width: 4%;
   border-color: #f7f3e9;
   border-bottom: none;
+  margin-top: 2%;
 }
 .top-container
 {
@@ -53,13 +54,13 @@ margin: 0;
 .Cloud-1
 {
   position: absolute;
-  right: 450px;
-  top: 50px;
+  right: 30%;
+  top: 10%;
 }
 .Cloud-2
 {
   position: absolute;
-  left: 400px;
+  left: 30%;
 }
 
 h2
